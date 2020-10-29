@@ -16,6 +16,7 @@ Examples of behavior that contributes to creating a positive environment include
 *   Gracefully accepting constructive criticism.
 *   Focusing on what is best for the community.
 *   Showing empathy towards other community members.
+*   Helping out one and another to improve
 
 Examples of unacceptable behavior by participants include:
 
@@ -27,6 +28,7 @@ Examples of unacceptable behavior by participants include:
     address, without explicit permission.
 *   Conduct which could reasonably be considered inappropriate for the forum in
     which it occurs.
+*   Using vulgar language and unnecessary criticism.
 
 All TensorFlow forums and spaces are meant for professional interactions, and any behavior which could reasonably be considered inappropriate in a professional setting is unacceptable.
 
